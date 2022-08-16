@@ -7,5 +7,5 @@ A food website responsive front end
 The Website is developed using js, css and html. Fully responsive website.
 
 ## Getting Started
-![resto](https://github.com/frazbhattiiii/images/blob/main/2022-03-01%2018_38_25-.png)
+![resto](https://i.ibb.co/JFjytpb/2022-03-01-18-38-25.png)
 
